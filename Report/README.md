@@ -3,7 +3,6 @@
 
 **Content**
 
-[**Problem statement 2** ](#_page2_x78.00_y75.98)[Experimental results 3** ](#_page3_x78.00_y75.98)[Program structure and Function Specification 6** ](#_page6_x78.00_y75.98)[Program debugging, function testing 9](#_page9_x78.00_y75.98) **[Error analysis](#_page11_x78.00_y75.98)11 List of cited literature 12** 
 # <a name="_page2_x78.00_y75.98"></a>**Problem statement**
 In the process of work , the following tasks were performed: 
 
