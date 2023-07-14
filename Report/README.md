@@ -1,8 +1,6 @@
 ## Report on task №1
 ### **"Sorting methods"** 
 
-**Content**
-
 # <a name="_page2_x78.00_y75.98"></a>**Problem statement**
 In the process of work , the following tasks were performed: 
 
