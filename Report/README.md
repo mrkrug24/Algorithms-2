@@ -21,7 +21,7 @@ is as follows: the maximum modulo element of the array is found, and it is rearr
 
 A remarkable property of this method is to shorten the list from view to view. At each subsequent scan, one less comparison is performed, so that (n - 1), (n - 2), (n - 3), ..., 2, 1 comparisons are performed sequentially.  The total number of comparisons is equal to the product of the average number of comparisons per view by the number 
 
-views, i.e. ( -1) and is completely independent of the state of the data.   ![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.001.png)
+views, i.e. ( -1) and is completely independent of the state of the data.   ![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.001.png)
 
 2
 
@@ -58,20 +58,20 @@ Table 1: Results of simple selection sorting
 - Best case – ( 2 ) 
 - The worst case is (2), since the number of elements in the subsequence Xi depends linearly on n. And in turn k 
 
-takes values from ![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.002.png) up to 1, which means the number of considered 
+takes values from ![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.002.png) up to 1, which means the number of considered 
 
 2
 
 the subsequences also depend on n. Therefore, the worst complexity is (2).
 #1\.5+2 = 1
-- Average value – , where ![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.003.png)![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.004.png)
+- Average value – , where ![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.003.png)![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.004.png)
 # 2 −1
 - The number of element movements ([2] 105-108) 
 - The best case (the array is initially ordered) is 0  
-- The worst case is 1 2 8![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.005.png)
+- The worst case is 1 2 8![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.005.png)
 - Mean value – ( ,ℎ), where h is an ordered permutation, 
 
-=![](Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.006.png) and = ℎ 
+=![](Images/Aspose.Words.79ab8fb6-423a-4f62-9aad-99dea8c46ca8.006.png) and = ℎ 
 
 ℎ
 
