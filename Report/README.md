@@ -14,9 +14,9 @@ In the process of work , the following tasks were performed:
 - Analysis of errors made during operation. 
 # <a name="_page3_x78.00_y75.98"></a>**Experimental results** 
 # **Simple selection method**
-# : ,
-# .                                            
-# `              `,              .            .
+The implementation of sorting by simple choice in the conditions of this task
+is as follows: the maximum modulo element of the array is found, and it is rearranged with the first element. Then a similar procedure is applied to all elements except the first one. Etc.
+
 - Number of element comparisons ([1] 16-17) 
 
 A remarkable property of this method is to shorten the list from view to view. At each subsequent scan, one less comparison is performed, so that (n - 1), (n - 2), (n - 3), ..., 2, 1 comparisons are performed sequentially.  The total number of comparisons is equal to the product of the average number of comparisons per view by the number 
